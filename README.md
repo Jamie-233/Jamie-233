@@ -9,7 +9,5 @@
 ###
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-192133?logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-192133?logo=TypeScript)
 ![Swift](https://img.shields.io/badge/-Swift-192133?logo=swift)
-![macOS](https://img.shields.io/badge/-MacOS-192133?logo=macos)
 ![Linux](https://img.shields.io/badge/-Linux-192133?logo=Linux)
