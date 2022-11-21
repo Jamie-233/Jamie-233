@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamie-233&count_private=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie-233&langs_count=8&theme=light&count_private=true&layout=compact&&hide=html,css,scss,CoffeeScript&card_width=280)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
